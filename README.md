@@ -5,7 +5,7 @@
 [![Open in collab](https://research,google.com/assests/colab-badge.svg)](https://githubtocolab.com/Vinit-joshi2/Netflix-Shows-EDA/blob/main/Netflix_Shows___EDA.ipynb)
 
 
-<h1>Netflix Titles Dataset</h1> <br>
+<h2>Netflix Titles Dataset</h2> <br>
 Dataset Description
 <p>
 The Netflix Titles dataset contains information on TV shows and movies available on Netflix as of the last data update. This dataset includes various details about each title, such as its type, release year, country of origin, and more. It's useful for data analysis on the trends, content types, and other attributes of Netflix's offerings.</p> <br>
