@@ -1,4 +1,4 @@
-#Open the notebook in google colab
+<h1>Open the notebook in google colab</h1>
 
 <h2>You can view and interact with graph in the notebook by opening it in Google colab</h2>
 
